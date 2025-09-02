@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jean Mary Onyuro"
-  avatar : "/assets/images/Onyurointech.png"
+  avatar : "/assets/images/onyurointech.png"
   bio    : "Software Engineer | Cybersecurity Expert"
   links:
     - label: "Website"
