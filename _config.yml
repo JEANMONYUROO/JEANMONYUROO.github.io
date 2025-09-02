@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jean Mary Onyuro"
   avatar : "/assets/images/OnyuroInTech.png"
-  bio    : "Software Engineer | Cybersecurity Expert | Security Engineer | Project Manager | Coding Solutions for a Secure Future."
+  bio    : "Software Engineer | Cybersecurity Expert"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -77,15 +77,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/Pacho_Kano?t=WYd-4z0tJPBoN2YZISh7-Q&s=09"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/JEANMONYUROO
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jean-onyuro/"
 
 defaults:
   # _posts
